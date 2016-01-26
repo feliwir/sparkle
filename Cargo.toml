@@ -1,0 +1,9 @@
+[package]
+name = "imix"
+version = "0.1.0"
+authors = ["feliwir <stephan.vedder@gmail.com>"]
+
+[dependencies]
+image = "*"
+glium = "*"
+xml-rs = "*"
